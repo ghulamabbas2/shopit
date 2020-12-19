@@ -79,7 +79,7 @@ function App() {
 
           <Route path="/cart" component={Cart} exact />
           <ProtectedRoute path="/shipping" component={Shipping} />
-          <ProtectedRoute path="/order/confirm" component={ConfirmOrder} />
+          <ProtectedRoute path="/confirm" component={ConfirmOrder} exact />
           <ProtectedRoute path="/success" component={OrderSuccess} />
           {stripeApiKey &&
             <Elements stripe={loadStripe(stripeApiKey)}>
