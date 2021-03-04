@@ -5,8 +5,8 @@
         "description" : "Ultra-fast cards (2) to take better pictures and Full HD videos (1) with your compact to mid-range point-and-shoot cameras and camcorders. With SanDisk Ultra SDXC UHS-I cards you’ll benefit from faster downloads, high capacity, and better performance to capture and store 128GB (5) of high quality pictures and Full HD video (1). Take advantage of ultra-fast read speeds of up to 80MB/s (3) to save time moving photos and videos from the card to your computer. From a leader in flash memory storage, SanDisk Ultra SDXC UHS-I cards are compatible with SDHC and SDXC digital devices, and come with a 10-year limited warranty (6).",
         "ratings" : 4.5,
         "images" : [{
-            "public_id" : "products/tzfsnrli3szrdnb4jgge",
-            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+            "public_id" : "products/dsvbpny402gelwugv2le",
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1608062030/products/dsvbpny402gelwugv2le.jpg"
         }],
         "category" : "Electronics",
         "seller" : "Ebay",
@@ -36,7 +36,7 @@
         "ratings" : 3.5,
         "images" : [{
             "public_id" : "products/chairmount_nuubea",
-            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/chairmount_nuubea.jpg"
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231285/products/chairmount_nuubea.jpg"
         }],
         "category" : "Electronics",
         "seller" : "Amazon",
@@ -51,7 +51,7 @@
         "ratings" : 4.5,
         "images" : [{
             "public_id" : "products/headphones_t2afnb",
-            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/headphones_t2afnb.jpg"
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231281/products/headphones_t2afnb.jpg"
         }],
         "category" : "Headphones",
         "seller" : "Amazon",
@@ -66,7 +66,7 @@
         "ratings" : 4.8,
         "images" : [{
             "public_id" : "products/airpords_e5cqqr",
-            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/airpords_e5cqqr.jpg"
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231282/products/airpords_e5cqqr.jpg"
         }],
         "category" : "Electronics",
         "seller" : "Amazon",
@@ -81,7 +81,7 @@
         "ratings" : 4.1,
         "images" : [{
             "public_id" : "products/eahhtj1bkn1k9gjgd3hn",
-            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606233125/products/eahhtj1bkn1k9gjgd3hn.jpg"
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606233125/products/eahhtj1bkn1k9gjgd3hn.jpg"
         }],
         "category" : "Accessories",
         "seller" : "Amazon",
@@ -96,7 +96,7 @@
         "ratings" : 4.7,
         "images" : [{
             "public_id" : "products/camera_ridc0i",
-            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/camera_ridc0i.jpg"
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231283/products/camera_ridc0i.jpg"
         }],
         "category" : "Cameras",
         "seller" : "Amazon",
@@ -111,7 +111,7 @@
         "ratings" : 4.9,
         "images" : [{
             "public_id" : "products/macbook_o2cj2k",
-            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/macbook_o2cj2k.jpg"
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231282/products/macbook_o2cj2k.jpg"
         }],
         "category" : "Laptops",
         "seller" : "Amazon",
@@ -127,15 +127,15 @@
         "images" : [
             {
                 "public_id" : "products/wmoa49q9e70ze9xtcra2",
-                "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/wmoa49q9e70ze9xtcra2.jpg"
+                "url" : "https://res.cloudinary.com/bookit/image/upload/v1606293153/products/wmoa49q9e70ze9xtcra2.jpg"
             },
             {
                 "public_id" : "products/i0k1wdwi5hrpmzwxvsds",
-                "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/i0k1wdwi5hrpmzwxvsds.jpg" 
+                "url" : "https://res.cloudinary.com/bookit/image/upload/v1606293152/products/i0k1wdwi5hrpmzwxvsds.jpg" 
             },
             {
                 "public_id" : "products/bshmuo9qisfhz4azvnsd",
-                "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/bshmuo9qisfhz4azvnsd.jpg"
+                "url" : "https://res.cloudinary.com/bookit/image/upload/v1606293153/products/bshmuo9qisfhz4azvnsd.jpg"
             }
     ],
         "category" : "Food",
