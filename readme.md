@@ -6,8 +6,7 @@ More about this project and course on Udemy. Course Name: [MERN Stack Full Ecomm
 
 ### Env Variables
 
-Create a .env file in the backend folder in config folder with name config.env
-Add your variables in that as shown in the course.
+Add your config variables values in the config.env file in backend/config folder as shown in the course.
 
 ### Install Dependencies (Frontend)
 
