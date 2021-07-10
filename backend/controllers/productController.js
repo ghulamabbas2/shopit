@@ -32,6 +32,7 @@ exports.newProduct = catchAsyncErrors(async (req, res, next) => {
     req.body.user = req.user.id;
 
     const product = await Product.create(req.body);
+    await product.save({ validateBeforeSave: false }); //Please add this line to your project otherwie admins are not bale to prodoucts into the database
 
     res.status(201).json({
         success: true,
