@@ -29,7 +29,7 @@ exports.registerUser = catchAsyncErrors(async (req, res, next) => {
         }
     })
 
-    sendToken(user, 200, res)
+    sendToken(user, 201, res)
 
 })
 
